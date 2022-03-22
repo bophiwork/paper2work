@@ -52,7 +52,7 @@ The importance of being able to predict data trends allows governments and peopl
 
 This report uses data collected annually from the General Social Survey obtained by the University of Chicago [@gssdata]. The University of Chicago has collected this annual data for many years and is meant to gain general information about the American people. This data contains demographic, geographic, and family relation data from all survey responders. This data is supposed to be collected annually but there are some years where there is no data recorded so for some examples, I have chosen specifically to pick out notable years to analyze. 
 
-In this particular dataset, there are over 6000 different variables and pieces of metadata that can be associated with each survey participant. Many data variables were very obscure such as “college major” or “father’s highest degree.” While these points were interesting to look at, many of these more obscure pieces of data could not be observed for all the years I was interested in looking at. As a result, I chose to examine fairly easy to obtain pieces of data such as age and employment status among others to develop an understanding of the workforce demographics of the time. While this data can serve as a segment of a much larger population, I do find that the sample size of some years is rather small so it is important to note that this data could potentially not be truthfully representative of the broader American population.
+In this particular dataset, there are over 6000 different variables and pieces of metadata that can be associated with each survey participant. Many data variables were very obscure such as “college major” or “father’s highest degree.” While these points were interesting to look at, many of these more obscure pieces of data could not be observed for all the years I was interested in looking at. As a result, I chose to examine fairly easy to obtain pieces of data such as age and employment status among others to develop an understanding of the workforce demographics of the time. While this data can serve as a segment of a much larger population, I do find that the sample size of some years is rather small so it is important to note that this data could potentially not be truthfully representative of the broader American population. This statistical report will look at the respondents of the GSS and how the methods in which the survey was conducted could have led to skewed data over time.
 
 \newpage 
 
@@ -123,6 +123,8 @@ Another weakness of the dataset lies in the nature of the data collection. Parti
 
 # Appendix {-}
 
+Using the data obtained from the General Social Survey, I created my own supplementary survey to focus on the topics discussed in this paper. A link to the survey can be found here: https://docs.google.com/forms/d/e/1FAIpQLScNiM-If6VsvTEqaL_kZDqFCQMgg5u8qZ3DlEK2s3vaqyy7Ow/viewform?usp=sf_link I have included a picture of the survey as well down below.
+![Workplace Status Survey](survey.png)
 
 # Additional details
 
